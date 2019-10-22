@@ -1,0 +1,5 @@
+applications:
+- name:    smart-classroom-api
+  host:    smart-classroom-ece452
+  memory:  256M
+  command: npm start
